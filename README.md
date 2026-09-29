@@ -27,7 +27,7 @@ Keep in mind:
  
  • Power off the device and boot to download mode (Plug in USB cable and then hold both volume buttons until the blue download screen shows up)  
  
- • Download the recovery.tar for the phone (present in the SourceForge)  
+ • Download the recovery.tar for the phone (releases page)  
  
  • Download Samsung Odin and run it (If the device is not recognized, make sure Samsung USB Drivers are properly installed)  
  
@@ -35,7 +35,7 @@ Keep in mind:
  
  • At the exact moment the screen goes off, boot to recovery mode with the key combo (Vol Up +  Power)  
  
- • Download the rootfs and boot image from the releases page  
+ • Download the rootfs and boot image from the releases page and unzip the rootfs.
  
  • Enter fastboot mode  
  

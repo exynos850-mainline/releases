@@ -1,4 +1,5 @@
-`#include <std_disclaimer.h>
+```
+#include <std_disclaimer.h>
 /*
 * Your warranty is void.
 *
@@ -8,7 +9,7 @@
 * before flashing it! YOU are choosing to make these modifications, and if
 * you point the finger at me for messing up your device, I will laugh at you.
 */
-`
+```
 
 If you didn't understand that:
 

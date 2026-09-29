@@ -45,11 +45,11 @@ Keep in mind:
  
  • fastboot erase userdata  
  
- • fastboot flash boot /path/to/files/[amount of ram]GB-boot-uniLoader-20260929-postmarketOS-a135f.img  
+ • fastboot flash boot /path/to/bootimage.img  
  
   eg: fastboot flash boot /home/schoosh/releases-mainline/4GB-boot-uniLoader-20260929-postmarketOS-a135f.img  
   
- • fastboot flash userdata /path/to/files/postmarketOS-plasma-mobile-6-20260929-rootfs-a135f.img  
+ • fastboot flash userdata /path/to/rootfs.img 
  
   eg: fastboot flash userdata /home/schoosh/releases-mainline/postmarketOS-plasma-mobile-6-20260929-rootfs-a135f.img  
   

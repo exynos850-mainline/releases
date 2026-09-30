@@ -10,6 +10,9 @@
 * you point the finger at me for messing up your device, I will laugh at you.
 */
 ```
+read this too to get a better understanding of the current status of development:
+
+[wiki for the Samsung Galaxy a13](https://wiki.nura.eco/wiki/Samsung_Galaxy_A13_(samsung-a13))
 
 If you didn't understand that:  
 
